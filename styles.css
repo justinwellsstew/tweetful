@@ -40,3 +40,8 @@ section {
 	float: left;
 	margin: 1%;
 }
+
+footer {
+	text-align:center;
+	clear:both;
+}
